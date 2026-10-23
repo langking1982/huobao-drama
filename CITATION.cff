@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both this derivative and the original huobao-drama by chatfire-AI."
+title: "Huobao Drama (derivative)"
+authors:
+  - alias: "langking1982"
+    website: "https://github.com/langking1982"
+type: software
+repository-code: "https://github.com/langking1982/huobao-drama"
+abstract: >-
+  AI-powered end-to-end short drama generator (derivative of chatfire-AI/huobao-drama): one sentence to complete drama, script rewrite, storyboarding, image generation, dubbing, synthesis and subtitles.
+keywords:
+  - "AI video"
+  - "short drama"
+  - "AI film production"
+  - "TypeScript"
+license: CC-BY-NC-SA-4.0
+date-released: "2026-10-23"
+preferred-citation:
+  type: software
+  title: "Huobao Drama (derivative) (original)"
+  authors:
+    - alias: "chatfire-AI"
+  repository-code: "https://github.com/chatfire-AI/huobao-drama"

@@ -1,3 +1,9 @@
+> [!NOTE]
+> **衍生声明**：本仓库是 [chatfire-AI/huobao-drama](https://github.com/chatfire-AI/huobao-drama) 的社区衍生升级版，
+> **鸣谢原作者 [chatfire-AI](https://github.com/chatfire-AI)** 的开源贡献。衍生改动见 [UPGRADES.md](UPGRADES.md)，
+> 完整出处与许可链见 [NOTICE.md](NOTICE.md)。
+> 许可构成不变：**CC BY-NC-SA 4.0**（署名 + 非商业 + 相同方式共享；商用需原作者授权）。
+> 改动本身将以相同许可发布并保留全部原始声明。
 # 🎬 Huobao Drama - AI Short Drama Generation Platform
 
 <div align="center">
